@@ -18,4 +18,4 @@ for Jekyll to rendering markdown documents to HTML, thus the whole site can be d
 to [Github Pages][1] without generating and uploading HTML bundle every time when there are
 changes to the original repository.
 
-[1]: https://pages.github.com
+[1]: https://pages.github.com 
